@@ -26,11 +26,11 @@ variable "ssh-pub-key" {
 }
 
 
-variable "vault-password" {
-  description = "Ansible Vault Password for Variables.yml"
-  type        = string
-  sensitive   = true
-}
+# variable "vault-password" {
+  # description = "Ansible Vault Password for Variables.yml"
+  # type        = string
+  # sensitive   = true
+# }
 
 variable "service_account_username" {
   description = "Service account username"
