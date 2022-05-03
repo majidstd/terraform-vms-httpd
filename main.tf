@@ -180,7 +180,7 @@ resource "null_resource" "ansible-playbook" {
         "ansible-playbook --private-key /root/.ssh/appache_web -u ${var.service_account_username} -i /tmp/apache-web-servers.txt /tmp/main.yml"
 
         ]
-
+		timeout = 30
         connection {
         type     = "ssh"
         user     = "${var.service_account_username}"
