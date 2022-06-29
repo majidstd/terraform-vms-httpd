@@ -96,3 +96,14 @@ Each Apache server has a custom `index.html` file that includes the hostname of 
 
 <img src="images/apache-server-result.png" alt="Apache Server Result">
 
+## BayInfotech Repositories
+
+Please visit our repositories for more detail and other projects in automation and programability:
+
+[https://github.com/bay-infotech](https://github.com/bay-infotech)
+
+
+## BayInfotech website
+We are working hard to bring more automation and programmability into community. Please contact us for more detail projects and solutions
+
+[https://bay-infotech.com](https://bay-infotech.com)
